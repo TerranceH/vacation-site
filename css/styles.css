@@ -1,9 +1,13 @@
 body {
   font-size: 1.5em
+
 }
 
-#header-image {
+.header-image {
   width:100%;
+}
+.fancy-font {
+ font-family: "Fredoka One", sans-serif;
 }
 
 .embedded-picture {
