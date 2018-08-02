@@ -1,3 +1,7 @@
+body {
+  font-size: 1.5em
+}
+
 #header-image {
   width:100%;
 }
@@ -12,4 +16,17 @@
 
 .float-right {
   float:right;
+}
+
+.text-left {
+  margin-left: 20px;
+}
+.text-right {
+  margin-right: 20px;
+}
+.text-top {
+  margin-top: 20px
+}
+.text-bottom {
+  margin-bottom: 20px;
 }
