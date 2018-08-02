@@ -40,8 +40,21 @@ body {
 .entry {
   padding: 20px;
   /* border: 3px solid red; */
-  height: 300px;
 }
 .green-bg {
   background-color: #afa;
+}
+.shadowed {
+  box-shadow: 0px 0px 10px black;
+}
+.fixed-200 {
+  height:200px;
+}
+.panel > .panel-heading {
+  background-image: none;
+  background-color:#ddf;
+}
+.panel > .panel-body {
+  background-image: none;
+  background-color:#ddf;
 }
